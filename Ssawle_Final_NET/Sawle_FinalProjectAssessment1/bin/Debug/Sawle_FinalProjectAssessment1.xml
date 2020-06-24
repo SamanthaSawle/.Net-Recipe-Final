@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sawle_FinalProjectAssessment1
+</name>
+</assembly>
+<members>
+<member name="T:Sawle_FinalProjectAssessment1.RecipesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Crepe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Crepe2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.emptyKitchenText">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.FrenchToast">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Muffin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Muffin1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Muffin2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Popover">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Popover1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Popover2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.SugarCookies">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.SugarCookies1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sawle_FinalProjectAssessment1.My.Resources.Resources.Toast">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Sawle_FinalProjectAssessment1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Sawle_FinalProjectAssessment1.Recipes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
